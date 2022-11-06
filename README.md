@@ -2,7 +2,7 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 --------------------------------------------------------------------------------------------------------------------------------------------
 Web-Dev 
 --------------------------------------------------------------------------------------------------------------------------------------------
-Sou estudante de sistemas de internet, comecei a faculdade em Fevereiro de 2022 e busco aprender cada vez mais e assim me tornar um grande programador!
+Sou estudante de sistemas de internet, iniciei meus estudos em Fevereiro de 2022 na universidade UniALFA e busco aprender cada vez mais e assim me tornar um grande programador!
 * 🌍 Estou sediado no Brasil
 * 🧠 Estou aprendendo PHP/JS/Java/SQL
 
