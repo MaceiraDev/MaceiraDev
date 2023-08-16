@@ -11,7 +11,9 @@ I am a student of internet systems, I started my studies in February 2022 at Uni
         </a>
     </p>
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaceiraDev&show_icons=true&theme=highcontrast)
+
 ![LIKE](https://user-images.githubusercontent.com/110571911/200186761-a234d578-36d2-4cee-8f53-80340ffd406c.gif)
 
 
