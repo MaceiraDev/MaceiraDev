@@ -15,9 +15,11 @@ I am a student of internet systems, I started my studies in February 2022 at Uni
         </a>
     </p>
 </div>
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ![LIKE](https://user-images.githubusercontent.com/110571911/200186761-a234d578-36d2-4cee-8f53-80340ffd406c.gif)
+
 Nice to meet you :)
 
 
