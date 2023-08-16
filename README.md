@@ -6,7 +6,7 @@ I am a student of internet systems, I started my studies in February 2022 at Uni
 * 🌍 I'm based in Brazil
 * 🧠 I'm learning Vue.js/JS/PHP/SQL
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vue,js,php,nodejs,java,github,git,discord,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vue,js,php,nodejs,java,github,git,discord,&theme=light)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaceiraDev&show_icons=true&theme=highcontrast)
 
