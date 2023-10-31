@@ -16,8 +16,7 @@ I am a student of internet systems, I started my studies in February 2022 at Uni
     </p>
 </div>
 
-![LIKE](https://user-images.githubusercontent.com/110571911/200186761-a234d578-36d2-4cee-8f53-80340ffd406c.gif)
-![LIKE](https://escrevereler.com.br/wp-content/uploads/2016/05/livros-sobre-capivaras.jpg)
+![LIKE](https://user-images.githubusercontent.com/110571911/200186761-a234d578-36d2-4cee-8f53-80340ffd406c.gif) ![LIKE](https://i.pinimg.com/736x/91/7a/a0/917aa08334c036978bd92642bab47f79.jpg)
 
 
 Nice to meet you :)
