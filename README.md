@@ -16,8 +16,7 @@ I am a student of internet systems, I started my studies in February 2022 at Uni
     </p>
 </div>
 
-![LIKE](https://user-images.githubusercontent.com/110571911/200186761-a234d578-36d2-4cee-8f53-80340ffd406c.gif) ![LIKE](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwhat-is-he-reading-v0-rpku3r5ohdx91.jpg%3Fauto%3Dwebp%26s%3D237284fa6c27206e26a56539fab0c8f87f2cad7f
-)
+![LIKE](https://user-images.githubusercontent.com/110571911/200186761-a234d578-36d2-4cee-8f53-80340ffd406c.gif)
 
 
 Nice to meet you :)
