@@ -11,7 +11,7 @@ I am a student of internet systems, I started my studies in February 2022 at Uni
 <div style="display: inline_block"> 
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,js,php,nodejs,java,github,git,discord"/>
+            <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,js,nodejs,php,java,flutter,github,git,discord"/>
         </a>
     </p>
 </div>
