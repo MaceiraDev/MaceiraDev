@@ -6,7 +6,8 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ###
 
-<p align="left">I am a student of internet systems, I started my studies in February 2022 at UniALFA university and I seek to learn more and more and thus become a great programmer! I currently use Vue.js, Js, css, HTML in my work.</p>
+<p align="left">
+I hold a degree in Internet Systems, having graduated from UniALFA University in December 2024. I am passionate about technology and continually strive to enhance my skills to become an outstanding programmer. I focus on full-stack development using Vue.js, React, Laravel, JavaScript, CSS, and HTML, constantly seeking opportunities to learn and grow in the field.</p>
 
 ###
 
