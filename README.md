@@ -1,4 +1,5 @@
-<h1>Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Leonardo M. Santos</h1>
+Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Leonardo M. Santos
+------------------------------------------------------------------------------------------------------------------------
 
 ###
 
@@ -14,16 +15,9 @@
 ###
 
 <h3 align="left">About me:</h3>
-
-###
-
 <p align="left">I hold a degree in Internet Systems, having graduated from UniALFA University in December 2024. I am passionate about technology and continually strive to enhance my skills to become an outstanding programmer. My strongest affinity lies in front-end development, where I specialize in building modern and dynamic interfaces using frameworks such as React, React Native, and Vue, always aiming to deliver intuitive and engaging user experiences.</p>
 
-###
-
 <h3 align="left">My skills:</h3>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
