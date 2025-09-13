@@ -15,9 +15,16 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ###
 
 <h3 align="left">About me:</h3>
+
+###
+
 <p align="left">I hold a degree in Internet Systems, having graduated from UniALFA University in December 2024. I am passionate about technology and continually strive to enhance my skills to become an outstanding programmer. My strongest affinity lies in front-end development, where I specialize in building modern and dynamic interfaces using frameworks such as React, React Native, and Vue, always aiming to deliver intuitive and engaging user experiences.</p>
 
+###
+
 <h3 align="left">My skills:</h3>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -62,14 +69,6 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
   <img width="8" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="discord logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaceiraDev/MaceiraDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaceiraDev/MaceiraDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MaceiraDev/MaceiraDev/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
